@@ -1,2 +1,2 @@
 # Makerthon2018
-Demo
+Final sketches of all teams.
